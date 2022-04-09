@@ -16,6 +16,7 @@ namespace BasicCorePrograms
             Harmonic.HarmonicNumbers();
             SwapNumbers.Swap();
             VowelConsonent.Charactor();
+            Factors.PrimeFactors();
             Console.ReadLine();
         }
     }

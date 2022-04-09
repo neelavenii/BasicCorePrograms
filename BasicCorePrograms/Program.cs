@@ -13,6 +13,7 @@ namespace BasicCorePrograms
             Console.WriteLine("Welcome to Basic core Programs");
            EvenOdd evenOdd = new EvenOdd();
             EvenOdd.CheckEvenOdd();
+            Harmonic.HarmonicNumbers();
             Console.ReadLine();
         }
     }

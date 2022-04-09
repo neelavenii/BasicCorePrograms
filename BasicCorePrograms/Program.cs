@@ -11,6 +11,8 @@ namespace BasicCorePrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Basic core Programs");
+           EvenOdd evenOdd = new EvenOdd();
+            EvenOdd.CheckEvenOdd();
             Console.ReadLine();
         }
     }

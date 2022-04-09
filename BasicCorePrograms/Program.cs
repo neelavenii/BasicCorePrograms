@@ -15,6 +15,7 @@ namespace BasicCorePrograms
             EvenOdd.CheckEvenOdd();
             Harmonic.HarmonicNumbers();
             SwapNumbers.Swap();
+            VowelConsonent.Charactor();
             Console.ReadLine();
         }
     }

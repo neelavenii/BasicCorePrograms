@@ -17,6 +17,7 @@ namespace BasicCorePrograms
             SwapNumbers.Swap();
             VowelConsonent.Charactor();
             Factors.PrimeFactors();
+            QuotientNumber.Quotient();
             Console.ReadLine();
         }
     }

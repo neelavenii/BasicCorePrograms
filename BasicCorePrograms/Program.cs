@@ -14,6 +14,7 @@ namespace BasicCorePrograms
            EvenOdd evenOdd = new EvenOdd();
             EvenOdd.CheckEvenOdd();
             Harmonic.HarmonicNumbers();
+            SwapNumbers.Swap();
             Console.ReadLine();
         }
     }

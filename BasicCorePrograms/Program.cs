@@ -18,6 +18,7 @@ namespace BasicCorePrograms
             VowelConsonent.Charactor();
             Factors.PrimeFactors();
             QuotientNumber.Quotient();
+            FlipCoincs.Flip();
             Console.ReadLine();
         }
     }

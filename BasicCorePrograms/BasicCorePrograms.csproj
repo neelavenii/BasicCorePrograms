@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="EvenOdd.cs" />
     <Compile Include="Factors.cs" />
+    <Compile Include="FlipCoincs.cs" />
     <Compile Include="HarmonicNumbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

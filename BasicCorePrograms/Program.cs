@@ -19,6 +19,11 @@ namespace BasicCorePrograms
             Factors.PrimeFactors();
             QuotientNumber.Quotient();
             FlipCoincs.Flip();
+            LargestNumber.FindLargeNum();
+
+
+
+
             Console.ReadLine();
         }
     }
